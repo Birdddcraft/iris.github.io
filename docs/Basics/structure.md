@@ -152,6 +152,6 @@ sidebar_position: 0
 			}
 		}],
 	"version": 1
-	
+}
 
 ```
