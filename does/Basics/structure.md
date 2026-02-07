@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-#认识关卡结构
+# 认识关卡结构
 
 这是一个基本的外包装，其中*"objects": []*列表为关卡内容
 
@@ -153,4 +153,5 @@ sidebar_position: 0
 		}],
 	"version": 1
 	
+
 ```
